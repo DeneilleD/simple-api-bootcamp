@@ -2,21 +2,20 @@
 
 ### Goal: Display data returned from an api
 
-### How to submit your code for review:
+Build an application that enables the use of a public API to generate a response with the APIs content.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+###  My Simple API Project
+This project highlights my use of HTML, CSS and javaScript;a user friendly applcation displays a diverse selection of pokemn made avaiable to the user with their input. 
+**Link to project: https://ddsimpleapi.netlify.app/ 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+![snip](sc.PNG)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+
+I utilized my skills in javaScript, HTML and CSS to include the use of API's into my functions, event listeners, and more: the utilization of these allowed me to make a user interactive pokemon generator. The user is able to search through this interface and get their desried choice returned.
+
+## Lessons Learned:
+I learned how to read and include paremeters into my javaScript when using API's
